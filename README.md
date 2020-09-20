@@ -1,7 +1,7 @@
 # python projects
- This repo include python projects done by me
+ This repo include python projects done by me\n
  The first project is "Scientific Calculator". It is a command line python application that can perform 12 mathematical operations.
- Supported operations:
+ Supported operations:\n
  1- Addition
  2- Subtraction
  3- Multiplication
