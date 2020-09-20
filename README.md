@@ -13,5 +13,7 @@
  9- Exponential<br />
  10- Sine<br />
  11- Cosine<br />
- 12- Tangent<br />
- It also validates the input from the user to ensure its correctness, through recursive calls, in order to avoid errors. Moreover, it can support unfinite number of operations until the user decides to stop.
+ 12- Tangent<br /><br />
+ It also validates the input from the user to ensure its correctness, through recursive calls, in order to avoid errors. Moreover, it can support unfinite number of operations until the user decides to stop.<br />
+Project's folder has 2 python files: calculatorBase.py and calculator.py.<br />
+Calculator operations methods are implemented in calculatorBase.py. However, to run the applicaiton, user should run calculator.py
